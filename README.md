@@ -12,19 +12,19 @@
 
 Software Engineering graduate with Upper Second-Class Honours and industrial placement experience. I enjoy building user-focused web and mobile applications while combining technical development, product thinking, and team coordination.
 
-<!--- Snake (start) -->
-<div align="center">
-  
-  ![snake gif](https://github.com/Asal30/Asal30/blob/output/github-snake-dark.svg)
-</div>
-<!--- Snake (end) -->
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Asal30&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Asal30&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+
+<!--- Snake (start) -->
+<div align="center">
+  
+  ![snake gif](https://github.com/Asal30/Asal30/blob/output/github-snake-dark.svg)
+</div>
+<!--- Snake (end) -->
 
 ### 🛠️ Tech Stack
 
